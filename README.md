@@ -5,7 +5,7 @@ Recommended size: 1500x500
 -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/karthikurao/karthikurao/main/assets/banner.png" alt="Karthik Rao Banner" />
+  <img src="https://github.com/karthikurao/karthikurao/blob/main/assets/banner.png?raw=true" alt="Karthik Rao Banner" width="100%" />
 </p>
 
 <h1 align="center">Karthik Rao</h1>
