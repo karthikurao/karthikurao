@@ -8,7 +8,7 @@ Recommended size: 1500x500
   <img src="https://raw.githubusercontent.com/karthikurao/karthikurao/main/assets/banner.png" alt="Karthik Rao Banner" width="100%" />
 </p>
 
-<h1 align="center">Karthik Rao</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="36" alt="waving hand" />, I'm Karthik Rao</h1>
 <p align="center"><b>Software Engineer • Full Stack Builder • Open Source Contributor</b></p>
 
 <p align="center">
