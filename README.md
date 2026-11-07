@@ -137,13 +137,13 @@ principle: "ship > overthink"
 <div align="center">
 
 <!-- STATS & STREAK SIDE BY SIDE -->
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=karthikurao&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=E2E8F0&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<!--<img height="175em" src="https://github-readme-stats.vercel.app/api?username=karthikurao&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=E2E8F0&include_all_commits=true&count_private=true" alt="GitHub Stats" /> -->
 <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=karthikurao&theme=tokyonight&hide_border=true&background=0D1117&stroke=1E293B&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
 
 <br/><br/>
 
 <!-- TOP LANGUAGES & COMMIT ACTIVITY GRAPH -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=karthikurao&bg_color=0d1117&color=94a3b8&line=38bdf8&point=818cf8&area=true&hide_border=true" alt="Contribution Graph" />
+<!--<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=karthikurao&bg_color=0d1117&color=94a3b8&line=38bdf8&point=818cf8&area=true&hide_border=true" alt="Contribution Graph" /> -->
 
 <br/>
 
