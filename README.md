@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- DYNAMIC ANIMATED WAVE HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:312e81&height=220&section=header&text=Karthik%20U%20Rao&fontSize=54&fontColor=f8fafc&fontAlignY=38&desc=Software%20Engineer%20%20%7C%20%20Backend%20Architecture%20%20%7C%20%20Applied%20AI%20Systems&descSize=18&descAlignY=60&animation=fadeIn" alt="Karthik U Rao Header" />
+<<img src="./assets/hero-banner.svg" width="100%" />
 
 <!-- ANIMATED TERMINAL TYPING SVG -->
 <a href="https://github.com/karthikurao">
