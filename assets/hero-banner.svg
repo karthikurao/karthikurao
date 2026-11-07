@@ -88,8 +88,8 @@
 
     <!-- Terminal Lines -->
     <text x="762" y="118" class="code"><tspan class="code-hi">$</tspan> ./inspect-engineering-profile.sh</text>
-    <text x="762" y="144" class="code">▸ focus      : <tspan class="code-str">"Scalable APIs & Full-Stack"</tspan></text>
+    <text x="762" y="144" class="code">▸ focus      : <tspan class="code-str">"Scalable APIs &amp; Full-Stack"</tspan></text>
     <text x="762" y="168" class="code">▸ flagship   : <tspan class="code-str">["Snapory", "LinkShield-AI"]</tspan></text>
-    <text x="762" y="192" class="code">▸ heuristic  : <tspan style="fill: #38BDF8; font-weight: 700;">ship > overthink</tspan></text>
+    <text x="762" y="192" class="code">▸ heuristic  : <tspan style="fill: #38BDF8; font-weight: 700;">ship &gt; overthink</tspan></text>
   </g>
 </svg>
