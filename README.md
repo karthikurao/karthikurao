@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO BANNER (FULLY URL-ENCODED FOR GITHUB CAMO PROXY) -->
-<img width="100%" src="https://raw.githubusercontent.com/karthikurao/karthikurao/main/assets/hero-banner.svg" alt="Karthik U Rao Banner" />
+<img width="100%" src="https://raw.githubusercontent.com/karthikurao/karthikurao/6b6986f1cc75a95e5e6a26f77cb8641879ee1946/assets/hero-banner.svg" alt="Karthik U Rao Banner" />
 
 <br/>
 
