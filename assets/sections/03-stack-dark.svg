@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="56" viewBox="0 0 1000 56" role="img" aria-label="03 Stack">
+  <text x="0" y="38" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="19" letter-spacing="1" fill="#8ab4ff">03</text>
+  <text x="52" y="40" font-family="Georgia,'Times New Roman','DejaVu Serif',serif" font-size="30" fill="#e8e6e1">Stack</text>
+  <line x1="149" y1="28" x2="992" y2="28" stroke="#ffffff" stroke-opacity="0.22" stroke-width="1.2" stroke-dasharray="843">
+    <animate attributeName="stroke-dashoffset" dur="1.4s" begin="0s" fill="freeze" values="843;0"/>
+  </line>
+  <rect x="992" y="25" width="6" height="6" fill="#8ab4ff"/>
+</svg>

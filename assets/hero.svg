@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-label="Karthik Rao, backend-first engineer in Bengaluru">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-200%" y="-200%" width="500%" height="500%"><feGaussianBlur stdDeviation="5"/></filter>
+    <clipPath id="clip"><rect width="1200" height="380" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="380" fill="#0e1116"/>
+    <rect width="1200" height="380" fill="url(#grid)"/>
+
+    <!-- corner marks -->
+    <g fill="none" stroke="#3a424d" stroke-width="1.2">
+      <path d="M24 44V24H44"/><path d="M1176 44V24H1156"/>
+      <path d="M24 336V356H44"/><path d="M1176 336V356H1156"/>
+    </g>
+
+    <text x="64" y="58" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="12" letter-spacing="2.5" fill="#6b7480">BENGALURU  12.97N  77.59E</text>
+
+    <!-- request status, top right -->
+    <text x="1136" y="58" text-anchor="end" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="13" letter-spacing="1" fill="#9aa3ad" opacity="0">GET /karthik
+      <animate attributeName="opacity" dur="7s" repeatCount="indefinite" keyTimes="0;0.02;0.76;0.80;1" values="0;1;1;0;0"/>
+    </text>
+    <text x="1136" y="58" text-anchor="end" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="13" letter-spacing="1" fill="#8ab4ff" opacity="0">200 OK
+      <animate attributeName="opacity" dur="7s" repeatCount="indefinite" keyTimes="0;0.78;0.82;0.96;1" values="0;0;1;1;0"/>
+    </text>
+
+    <!-- name -->
+    <text x="62" y="185" font-family="Georgia,'Times New Roman','DejaVu Serif',serif" font-size="98" fill="#f2efe8" letter-spacing="-1">Karthik
+      <animate attributeName="opacity" dur="0.9s" begin="0s" fill="freeze" values="0;1"/>
+    </text>
+    <text x="62" y="282" font-family="Georgia,'Times New Roman','DejaVu Serif',serif" font-size="98" fill="#f2efe8" letter-spacing="-1">Rao<tspan fill="#8ab4ff">.</tspan>
+      <animate attributeName="opacity" dur="1.3s" begin="0s" fill="freeze" keyTimes="0;0.3;1" values="0;0;1"/>
+    </text>
+    <text x="66" y="331" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="15" letter-spacing="1" fill="#9aa3ad">backend-first  /  c#  java  react
+      <animate attributeName="opacity" dur="1.8s" begin="0s" fill="freeze" keyTimes="0;0.55;1" values="0;0;1"/>
+    </text>
+
+    <!-- architecture -->
+  <circle cx="700" cy="95" r="2.5" fill="#3a424d"/>
+  <circle cx="830" cy="322" r="2.5" fill="#3a424d"/>
+  <circle cx="985" cy="335" r="2.5" fill="#3a424d"/>
+  <circle cx="1085" cy="95" r="2.5" fill="#3a424d"/>
+  <circle cx="610" cy="335" r="2.5" fill="#3a424d"/>
+  <circle cx="940" cy="120" r="2.5" fill="#3a424d"/>
+    <path d="M650 265 L775 175 L905 255 L1025 175 L1120 265" fill="none" stroke="#2a323c" stroke-width="1.3" stroke-dasharray="3 6"/>
+  <circle cx="650" cy="265" r="8" fill="none" stroke="#8ab4ff" stroke-width="1.5" opacity="0">
+    <animate attributeName="r" dur="7s" repeatCount="indefinite" keyTimes="0;0.0180;0.0200;0.1600;1" values="8;8;8;26;26"/>
+    <animate attributeName="opacity" dur="7s" repeatCount="indefinite" keyTimes="0;0.0180;0.0200;0.1600;1" values="0;0;0.9;0;0"/>
+  </circle>
+  <circle cx="775" cy="175" r="8" fill="none" stroke="#8ab4ff" stroke-width="1.5" opacity="0">
+    <animate attributeName="r" dur="7s" repeatCount="indefinite" keyTimes="0;0.2192;0.2212;0.3612;1" values="8;8;8;26;26"/>
+    <animate attributeName="opacity" dur="7s" repeatCount="indefinite" keyTimes="0;0.2192;0.2212;0.3612;1" values="0;0;0.9;0;0"/>
+  </circle>
+  <circle cx="905" cy="255" r="8" fill="none" stroke="#8ab4ff" stroke-width="1.5" opacity="0">
+    <animate attributeName="r" dur="7s" repeatCount="indefinite" keyTimes="0;0.4186;0.4206;0.5606;1" values="8;8;8;26;26"/>
+    <animate attributeName="opacity" dur="7s" repeatCount="indefinite" keyTimes="0;0.4186;0.4206;0.5606;1" values="0;0;0.9;0;0"/>
+  </circle>
+  <circle cx="1025" cy="175" r="8" fill="none" stroke="#8ab4ff" stroke-width="1.5" opacity="0">
+    <animate attributeName="r" dur="7s" repeatCount="indefinite" keyTimes="0;0.6070;0.6090;0.7490;1" values="8;8;8;26;26"/>
+    <animate attributeName="opacity" dur="7s" repeatCount="indefinite" keyTimes="0;0.6070;0.6090;0.7490;1" values="0;0;0.9;0;0"/>
+  </circle>
+  <circle cx="1120" cy="265" r="8" fill="none" stroke="#8ab4ff" stroke-width="1.5" opacity="0">
+    <animate attributeName="r" dur="7s" repeatCount="indefinite" keyTimes="0;0.7780;0.7800;0.9200;1" values="8;8;8;26;26"/>
+    <animate attributeName="opacity" dur="7s" repeatCount="indefinite" keyTimes="0;0.7780;0.7800;0.9200;1" values="0;0;0.9;0;0"/>
+  </circle>
+  <circle cx="650" cy="265" r="6" fill="#0e1116" stroke="#8ab4ff" stroke-width="1.5"/>
+  <circle cx="650" cy="265" r="2" fill="#8ab4ff"/>
+  <circle cx="775" cy="175" r="6" fill="#0e1116" stroke="#8ab4ff" stroke-width="1.5"/>
+  <circle cx="775" cy="175" r="2" fill="#8ab4ff"/>
+  <circle cx="905" cy="255" r="6" fill="#0e1116" stroke="#8ab4ff" stroke-width="1.5"/>
+  <circle cx="905" cy="255" r="2" fill="#8ab4ff"/>
+  <circle cx="1025" cy="175" r="6" fill="#0e1116" stroke="#8ab4ff" stroke-width="1.5"/>
+  <circle cx="1025" cy="175" r="2" fill="#8ab4ff"/>
+  <circle cx="1120" cy="265" r="6" fill="#0e1116" stroke="#8ab4ff" stroke-width="1.5"/>
+  <circle cx="1120" cy="265" r="2" fill="#8ab4ff"/>
+  <text x="650" y="297" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="12" letter-spacing="1.5" fill="#6b7480">client</text>
+  <text x="775" y="153" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="12" letter-spacing="1.5" fill="#6b7480">api</text>
+  <text x="905" y="287" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="12" letter-spacing="1.5" fill="#6b7480">service</text>
+  <text x="1025" y="153" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="12" letter-spacing="1.5" fill="#6b7480">queue</text>
+  <text x="1120" y="297" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="12" letter-spacing="1.5" fill="#6b7480">store</text>
+
+    <!-- the request -->
+    <g opacity="0">
+      <animateMotion dur="7s" repeatCount="indefinite" path="M650 265 L775 175 L905 255 L1025 175 L1120 265" keyPoints="0;0;1;1" keyTimes="0;0.02;0.78;1" calcMode="linear"/>
+      <animate attributeName="opacity" dur="7s" repeatCount="indefinite" keyTimes="0;0.02;0.76;0.80;1" values="0;1;1;0;0"/>
+      <circle r="11" fill="#ffb86b" opacity="0.45" filter="url(#glow)"/>
+      <circle r="4.5" fill="#ffb86b"/>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="379" rx="13.5" fill="none" stroke="#ffffff" stroke-opacity="0.09"/>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="ship > overthink">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-200%" y="-200%" width="500%" height="500%"><feGaussianBlur stdDeviation="4"/></filter>
+    <clipPath id="clip"><rect width="1200" height="170" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="170" fill="#0e1116"/>
+    <rect width="1200" height="170" fill="url(#grid)"/>
+    <text x="600" y="84" text-anchor="middle" font-family="Georgia,'Times New Roman','DejaVu Serif',serif" font-style="italic" font-size="42" fill="#f2efe8">ship &gt; overthink<tspan fill="#8ab4ff">_<animate attributeName="fill-opacity" dur="1.2s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.5;1" values="1;0;1"/></tspan></text>
+    <text x="600" y="118" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="12" letter-spacing="3" fill="#6b7480">KARTHIK RAO  /  BENGALURU</text>
+    <path d="M0 150H1200" stroke="#2a323c" stroke-width="1.2" stroke-dasharray="3 6"/>
+    <g>
+      <animateMotion dur="8s" repeatCount="indefinite" path="M-20 150 L1220 150"/>
+      <circle r="9" fill="#ffb86b" opacity="0.4" filter="url(#glow)"/>
+      <circle r="3.5" fill="#ffb86b"/>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="169" rx="13.5" fill="none" stroke="#ffffff" stroke-opacity="0.09"/>
+</svg>

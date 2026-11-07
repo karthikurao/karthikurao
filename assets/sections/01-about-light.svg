@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="56" viewBox="0 0 1000 56" role="img" aria-label="01 About">
+  <text x="0" y="38" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="19" letter-spacing="1" fill="#2f5bd6">01</text>
+  <text x="52" y="40" font-family="Georgia,'Times New Roman','DejaVu Serif',serif" font-size="30" fill="#14171c">About</text>
+  <line x1="149" y1="28" x2="992" y2="28" stroke="#14171c" stroke-opacity="0.28" stroke-width="1.2" stroke-dasharray="843">
+    <animate attributeName="stroke-dashoffset" dur="1.4s" begin="0s" fill="freeze" values="843;0"/>
+  </line>
+  <rect x="992" y="25" width="6" height="6" fill="#2f5bd6"/>
+</svg>
